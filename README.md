@@ -1,2 +1,2 @@
-# 1g1h
-One Game in One Hour
+# One game in one hour
+
